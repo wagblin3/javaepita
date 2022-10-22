@@ -12,6 +12,8 @@ public class Main {
         enfant1.feterAnniversaire();
         enfant1.feterAnniversaire();
         enfant1.presentation();
+
+
         enfant2.presentation();
         
     
